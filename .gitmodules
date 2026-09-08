@@ -1,0 +1,6 @@
+[submodule "freelancedesk-api"]
+	path = freelancedesk-api
+	url = git@github.com:micio86dev/freelancedesk-api.git
+[submodule "freelancedesk-web"]
+	path = freelancedesk-web
+	url = git@github.com:micio86dev/freelancedesk-web.git
